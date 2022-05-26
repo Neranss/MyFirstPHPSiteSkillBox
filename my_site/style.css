@@ -1,0 +1,20 @@
+.main_data {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+
+.main_title {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+.main_text {
+    font-size: 25px;
+}
+
+.interests {
+    margin-left: 50px;
+}
