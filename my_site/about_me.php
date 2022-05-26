@@ -6,6 +6,8 @@
     <div class="col">
       <div class="p-3 main_text">
           <div>Имя: <?php echo $userName?></div>
+          <div>Возраст: <?php echo $age?></div>
+          <div>Город: <?php echo $city?></div>
           <div>Должность: <?php echo $jobPosition?></div>
           <div>Основной язык: <?php echo $mainLanguage?></div>
           <div>Дополнительно использую: <?php echo $additionalLanguage?></div>

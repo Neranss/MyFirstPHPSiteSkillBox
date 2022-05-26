@@ -8,8 +8,9 @@
     <body>
         <?php include 'navbar.php' ?>
         <div class="main_data">
-            <h1 class="main_title">Мой <?php echo $siteNumber?> сайт на PHP</h1>
+            <h1 class="special_title">Мой <?php echo $siteNumber?> сайт на PHP</h1>
+            <?php include 'about_me.php' ?>
+            <?php include 'knowledge.php'?>
         </div>
-        <?php include 'about_me.php' ?>
     </body>
 </html>

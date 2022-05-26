@@ -4,7 +4,7 @@
 }
 
 
-.main_title {
+.special_title {
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -17,4 +17,9 @@
 
 .interests {
     margin-left: 50px;
+}
+
+.footer_text {
+    text-align: center;
+    font-size: 15px;
 }
